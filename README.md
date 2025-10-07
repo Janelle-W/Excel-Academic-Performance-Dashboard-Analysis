@@ -6,7 +6,7 @@
 
 
 ## Project Overview
-This project analyzes the relationships between student lifestyle habits—such as study hours, Netflix time, social media use, attendance, and part-time employment—and academic performance.  
+This project analyzes the relationships between student lifestyle habits, such as study hours, Netflix time, social media use, attendance, and part-time employment, and academic performance.  
 Using **Microsoft Excel**, the project integrates data exploration, visualization, and scenario modeling to identify key patterns and predict academic outcomes.  
 
 The dataset contains **1,000 simulated student records**, offering insights into how behavioral and lifestyle factors influence exam performance. Through advanced Excel tools, I performed descriptive statistics, correlation analysis, and predictive modeling to reveal how students’ habits shape their results.
